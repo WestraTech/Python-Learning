@@ -1,0 +1,1 @@
+PowerShell -NoProfile -ExecutionPolicy ByPass -Commad "& 'C:\Users\02GABRIEL.WESTRA\Gabriel Westra\Python AI\Python-Learning\prankster\script.ps1'"
